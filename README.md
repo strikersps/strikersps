@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=strikersps&show_icons=true&locale=en&layout=compact" alt="strikersps" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=strikersps&show_icons=true&locale=en" alt="strikersps" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=strikersps&" alt="strikersps" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=strikersps&" alt="strikersps" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=strikersps&show_icons=true&locale=en" alt="strikersps" /></p>
