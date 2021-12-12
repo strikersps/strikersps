@@ -10,15 +10,16 @@
 <a href="https://www.hackerearth.com/striker_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="striker_22" height="30" width="40" /></a>
 </p>
 
-### Glad to see you here! <img src="https://komarev.com/ghpvc/?username=strikersps&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="strikersps" /></p>
+### Glad to see you here! 🎉 ♥️ <img src="https://komarev.com/ghpvc/?username=strikersps&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="strikersps" /></p>
 * I am a Data Scientist and Software Developer. I love programming, writing, and playing soccer.
 * As a Sofware Engineer, I am always interested in solving problems by writing high performance, efficient code and I enjoy using my obssessive attention to details to achieve perfection in my work.  
 
 ### Talking About Personal Stuffs
 
+- 🎓 Currently pursuing Masters In Data Science.
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/strikersps)
 - 📝 I regularly write articles related to Data Science on [Medium](https://medium.com/@striker-786)
-- 📫 How to reach me **[Sharmasurajofficial@gmail.com](mailto:Sharmasurajofficial@gmail.com)**
+- 📧 How to reach me **[Sharmasurajofficial@gmail.com](mailto:Sharmasurajofficial@gmail.com)**
 - 📄 [Resume](https://drive.google.com/file/d/1XY19F7bFVkRIK2A7Xdjufze_AwEWwCRk/view?usp=sharing&usp=embed_facebook)
 - 💬 Ask me about anything, I am happy to help :)
 
