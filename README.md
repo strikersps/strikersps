@@ -18,7 +18,8 @@
 
 - 🎓 Currently pursuing Masters In Data Science.
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/strikersps)
-- 📝 I regularly write articles related to Data Science on [Medium](https://medium.com/@striker-786) and do competitive programming on various platforms.
+- 📝 I regularly write articles related to Data Science on [Medium](https://medium.com/@striker-786).
+- 🖥️ I usually participate in competitive programming contests on various platforms to improve my programming skills.
 - 💬 Ask me about anything, I am happy to help :)
 
 ### Blog Posts
@@ -29,7 +30,7 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 ### Open for Job Opportunities: Yes
-- 📄 Looking for Job Opportunities in Data Science :arrow_right: [My Resume for Reference](https://drive.google.com/file/d/1XY19F7bFVkRIK2A7Xdjufze_AwEWwCRk/view?usp=sharing&usp=embed_facebook)
+- 📄 Looking for Job Opportunities In Data Science :arrow_right: [My Resume for Reference](https://drive.google.com/file/d/1XY19F7bFVkRIK2A7Xdjufze_AwEWwCRk/view?usp=sharing&usp=embed_facebook)
 - 📧 How to reach me **[Sharmasurajofficial@gmail.com](mailto:Sharmasurajofficial@gmail.com)**
 
 ### 📈 My GitHub Statistics
