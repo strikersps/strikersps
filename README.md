@@ -31,7 +31,9 @@
 
 ### Open for Job Opportunities: Yes
 - 📄 Looking for Job Opportunities In Data Science :arrow_right: [My Resume for Reference](https://drive.google.com/file/d/1XY19F7bFVkRIK2A7Xdjufze_AwEWwCRk/view?usp=sharing&usp=embed_facebook)
-- 📧 How to reach me **[Sharmasurajofficial@gmail.com](mailto:Sharmasurajofficial@gmail.com)**
+- 📧 Reach Me: 
+  - Email ID: **[Sharmasurajofficial@gmail.com](mailto:Sharmasurajofficial@gmail.com)**
+  - LinkedIn: https://www.linkedin.com/in/sps22/
 
 ### 📈 My GitHub Statistics
 <p>
