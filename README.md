@@ -24,6 +24,7 @@
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Analysis of Startup Industry As of June-2021](https://medium.com/analytics-vidhya/analysis-of-startup-industry-as-of-june-2021-683e1b213a5c?source=rss-13a552a393bf------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools</h3>
