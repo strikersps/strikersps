@@ -10,7 +10,7 @@
 <a href="https://www.hackerearth.com/striker_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="striker_22" height="30" width="40" /></a>
 </p>
 
-### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=strikersps&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="strikersps" />
+### Glad to see you here! <p align = "right"> <img src="https://komarev.com/ghpvc/?username=strikersps&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="strikersps" /></p>
 <hr style="border:5px solid black"> </hr>
 
 ### Talking About Personal Stuffs:
