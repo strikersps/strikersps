@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/sps22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sps22" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/strikersps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="strikersps" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12210908/strikersps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="strikersps" height="30" width="40" /></a>
 <a href="https://medium.com/@striker-786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@striker-786" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/striker22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="striker22" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/striker_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="striker_22" height="30" width="40" /></a>
