@@ -17,10 +17,10 @@
 
 ### Talking About Personal Stuffs
 
-- 🎓 Currently pursuing Masters In Data Science.
+- 🎓 Currently pursuing Masters In Data Science
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/strikersps)
-- 📝 I regularly write articles related to Data Science on [Medium](https://medium.com/@striker-786).
-- 🖥️ I usually participate in competitive programming contests on various platforms to improve my programming skills.
+- 📝 I regularly write articles related to Data Science on [Medium](https://medium.com/@striker-786)
+- 🖥️ I usually participate in competitive programming contests on various platforms to improve my programming skills
 - 💬 Ask me about anything, I am happy to help :)
 
 ### Blog Posts
