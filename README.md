@@ -30,6 +30,11 @@
 
 ### Latest Stack Overflow Activities  
 <!-- STACKOVERFLOW:START -->
+- [Facing problems when training a Convolutional Neural Network &lpar;CNN&rpar; using TPU when using ImageDataGenerator class for Data Augmentation of Images?](https://stackoverflow.com/questions/67751478/facing-problems-when-training-a-convolutional-neural-network-cnn-using-tpu-whe)
+- [Why do I need to typecast the arguments to &lpar;void*&rpar; in C when using the %p format specifier in printf&lpar;&rpar;? [duplicate]](https://stackoverflow.com/questions/64265282/why-do-i-need-to-typecast-the-arguments-to-void-in-c-when-using-the-p-format)
+- [How to compute minimum number of operation required to make all the elements of sequence equal to each other](https://stackoverflow.com/questions/62702690/how-to-compute-minimum-number-of-operation-required-to-make-all-the-elements-of)
+- [Maximum binary number a binary string will result to if only one operation is allowed i.e. Right-Rotate By K-Bits where K = [0, Length of String]](https://stackoverflow.com/questions/61076092/maximum-binary-number-a-binary-string-will-result-to-if-only-one-operation-is-al)
+- [Answer by strikersps for Intuition behind this solution for &quot;Maximising XOR&quot;](https://stackoverflow.com/questions/26763870/intuition-behind-this-solution-for-maximising-xor/60064063#60064063)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Languages and Tools</h3>
