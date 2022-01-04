@@ -13,7 +13,7 @@
 * I am a Data Scientist and Software Developer. I love programming, writing, and playing soccer.
 * As a Sofware Engineer, I am always interested in solving problems by writing high-performance, efficient code. I enjoy using my obsessive attention to detail to achieve perfection in my work. 
 
-<img align="right" alt="GIF" src="https://github.com/strikersps/strikersps/blob/main/coding.gif?raw=true" width="408" height="300"/>  
+<img align="right" alt="GIF" src="https://github.com/strikersps/strikersps/blob/main/coding.gif?raw=true" width="400" height="300"/>  
 
 ## Talking About Personal Stuffs
 
