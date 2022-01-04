@@ -15,7 +15,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/strikersps/strikersps/blob/main/coding.gif?raw=true" width="408" height="300"/>  
 
-### Talking About Personal Stuffs
+## Talking About Personal Stuffs
 
 - 🎓 Currently pursuing Masters In Data Science
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/strikersps)
@@ -23,12 +23,12 @@
 - 🖥️ I usually participate in competitive programming contests on various platforms to improve my programming skills
 - 💬 Ask me about anything, I am happy to help :)
 
-### Latest Blog Posts
+## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Analysis of Startup Industry As of June-2021](https://medium.com/analytics-vidhya/analysis-of-startup-industry-as-of-june-2021-683e1b213a5c?source=rss-13a552a393bf------2)
 <!-- BLOG-POST-LIST:END -->
 
-### Latest Stack Overflow Activities  
+## Latest Stack Overflow Activities  
 <!-- STACKOVERFLOW:START -->
 - [Facing problems when training a Convolutional Neural Network &lpar;CNN&rpar; using TPU when using ImageDataGenerator class for Data Augmentation of Images?](https://stackoverflow.com/questions/67751478/facing-problems-when-training-a-convolutional-neural-network-cnn-using-tpu-whe)
 - [Why do I need to typecast the arguments to &lpar;void*&rpar; in C when using the %p format specifier in printf&lpar;&rpar;? [duplicate]](https://stackoverflow.com/questions/64265282/why-do-i-need-to-typecast-the-arguments-to-void-in-c-when-using-the-p-format)
@@ -37,17 +37,16 @@
 - [Answer by strikersps for Intuition behind this solution for &quot;Maximising XOR&quot;](https://stackoverflow.com/questions/26763870/intuition-behind-this-solution-for-maximising-xor/60064063#60064063)
 <!-- STACKOVERFLOW:END -->
 
-<h3 align="left">Languages and Tools</h3>
+## Languages and Tools
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### 📈 My GitHub Statistics
+## 📈 My GitHub Statistics
 <p>
   <img height = "160em" src="https://github-readme-stats.vercel.app/api?username=strikersps&show_icons=true&hide_border=true&count_private=true&locale=en" alt="strikersps"/>
-  <img height = "160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=strikersps&show_icons=true&hide_border=true&locale=en&layout=compact" alt="strikersps"/>
+  <img height = "160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=strikersps&show_icons=true&hide_border=true&locale=en&layout=compact&langs_count=6" alt="strikersps"/>
 </p>
 
----
-### Open for Job Opportunities: Yes
+## Open for Job Opportunities: Yes
 - 💼 Position of Interest: Deep Learning, Machine Learning, Data Scientist, Data Analyst
 - 🌏 Location Preference: India (Bangalore or Pune), Canada*, USA*, Australia* (*Will need VISA sponsorship)
 - 📄 Resume for Reference: [Resume As of Nov-2021](https://drive.google.com/file/d/1XY19F7bFVkRIK2A7Xdjufze_AwEWwCRk/view?usp=sharing&usp=embed_facebook)
