@@ -43,7 +43,7 @@
 ## 📈 My GitHub Statistics
 <p>
   <img height = "160em" src="https://github-readme-stats.vercel.app/api?username=strikersps&show_icons=true&hide_border=true&count_private=true&locale=en" alt="strikersps"/>
-  <img height = "160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=strikersps&show_icons=true&hide_border=true&locale=en&layout=compact&langs_count=6" alt="strikersps"/>
+  <img height = "160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=strikersps&show_icons=true&hide_border=true&locale=en&layout=compact&langs_count=4" alt="strikersps"/
 </p>
 
 ## Open for Job Opportunities: Yes
