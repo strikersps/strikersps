@@ -9,7 +9,7 @@
 <a href="https://www.hackerrank.com/striker_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="striker_22" height="30" width="40" /></a>
 </p>
 
-### Glad to see you here! 🎉 ♥️ <img src="https://komarev.com/ghpvc/?username=strikersps&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="strikersps" /></p>
+### Glad to see you here! 🎉 ♥️ <img src="https://komarev.com/ghpvc/?username=strikersps&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="strikersps"/></p>
 * I am a Data Scientist and Software Developer. I love programming, writing, and playing soccer.
 * As a Sofware Engineer, I am always interested in solving problems by writing high-performance, efficient code. I enjoy using my obsessive attention to detail to achieve perfection in my work. 
 
@@ -49,7 +49,7 @@
 ## Open for Job Opportunities: Yes
 - 💼 Position of Interest: Deep Learning, Machine Learning, Data Scientist, Data Analyst
 - 🌏 Location Preference: India (Bangalore or Pune), Australia* (*Will need VISA sponsorship)
-- 📄 Resume for Reference: [Resume As of Jan-2022](https://drive.google.com/file/d/1_2ACl0xMNXU6MExZ8Ejr79TBQkO6XkGb/view?usp=sharing)
+- 📄 Resume on request [Due to privacy reasons]
 - 📧 You can reach me out on: 
   - Email ID: **[Sharmasurajofficial@gmail.com](mailto:Sharmasurajofficial@gmail.com)**
   - LinkedIn: https://www.linkedin.com/in/sps22/
