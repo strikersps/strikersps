@@ -24,12 +24,14 @@
 - 💬 Ask me about anything, I am happy to help :)
 
 ## Latest Blog Posts
+   ![Medium-Logo-Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)  
+    
 <!-- BLOG-POST-LIST:START -->
 - [Analysis of Startup Industry As of June-2021](https://medium.com/analytics-vidhya/analysis-of-startup-industry-as-of-june-2021-683e1b213a5c?source=rss-13a552a393bf------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Stack Overflow Activities  
-<img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=12210908" height = "245"/>  
+<img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=12210908" height = "220"/>  
 
 <!-- STACKOVERFLOW:START -->
 - [Facing problems when training a Convolutional Neural Network &lpar;CNN&rpar; using TPU when using ImageDataGenerator class for Data Augmentation of Images?](https://stackoverflow.com/questions/67751478/facing-problems-when-training-a-convolutional-neural-network-cnn-using-tpu-whe)
