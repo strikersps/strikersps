@@ -1,7 +1,7 @@
 name: Latest Blog Post Workflow
 on:
   schedule:
-    # Runs every 12 hours
+    # Runs at 00:00 and 00:12 hour everyday
     - cron: '0 0,12 * * *'
 jobs:
   update-readme-with-blog:
