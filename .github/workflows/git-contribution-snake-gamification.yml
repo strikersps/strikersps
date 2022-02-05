@@ -1,7 +1,7 @@
 name: Generate Snake Animation From GitHub Contributions Graph
 
 on:
-  # run automatically every 6 hours
+  # run automatically every hour
   schedule:
     - cron: '0 */1 * * *'
   
@@ -12,8 +12,6 @@ on:
   push:
     branches:
     - main
-    
-  
 
 jobs:
   generate:
@@ -21,14 +19,14 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      # generates a snake game from a github user strikersps contributions graph, output a svg animation at path .
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@master
         with:
           github_user_name: strikersps
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # push the content of <build_dir> to a branch
+      # push the content of buid directory to a branch
       # the content will be available at https://raw.githubusercontent.com/strikersps/strikersps/snake_game_output/github-contributions-grid-snake.svg , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v2.5.0
