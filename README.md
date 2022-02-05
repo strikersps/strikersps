@@ -24,8 +24,8 @@
 - 💬 Ask me about anything, I am happy to help :)
 
 ## Latest Blog Posts
-   ![Medium-Logo-Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)  
-    
+![Medium-Logo-Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+
 <!-- BLOG-POST-LIST:START -->
 - [Analysis of Startup Industry As of June-2021](https://medium.com/analytics-vidhya/analysis-of-startup-industry-as-of-june-2021-683e1b213a5c?source=rss-13a552a393bf------2)
 <!-- BLOG-POST-LIST:END -->
