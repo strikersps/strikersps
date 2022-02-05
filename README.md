@@ -29,7 +29,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## Latest Stack Overflow Activities  
-<img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=12210908"/>
+<img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=12210908" height = "245"/>  
+
 <!-- STACKOVERFLOW:START -->
 - [Facing problems when training a Convolutional Neural Network &lpar;CNN&rpar; using TPU when using ImageDataGenerator class for Data Augmentation of Images?](https://stackoverflow.com/questions/67751478/facing-problems-when-training-a-convolutional-neural-network-cnn-using-tpu-whe)
 - [Why do I need to typecast the arguments to &lpar;void*&rpar; in C when using the %p format specifier in printf&lpar;&rpar;? [duplicate]](https://stackoverflow.com/questions/64265282/why-do-i-need-to-typecast-the-arguments-to-void-in-c-when-using-the-p-format)
