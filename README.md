@@ -11,7 +11,7 @@
 <img align = "center", src = "https://github.com/strikersps/strikersps-github-stats/blob/master/generated/languages.svg" /> <br>
 </p>
 
-### Glad to see you here! 🎉 ♥️ <img src="https://komarev.com/ghpvc/?username=strikersps&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="strikersps"/></p>
+### Glad to see you here! 🎉 ♥️
 * I am a Data Scientist and Software Developer. I love programming, writing, and playing soccer.
 * As a Sofware Engineer, I am always interested in solving problems by writing high-performance, efficient code. I enjoy using my obsessive attention to detail to achieve perfection in my work. 
 
