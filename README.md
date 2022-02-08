@@ -11,7 +11,7 @@
 <img align = "center", src = "https://github.com/strikersps/strikersps-github-stats/blob/master/generated/languages.svg" /> <br>
 </p>
 
-* ###### Suraj Sharma GitHub Contributions Graph Gamification ⏬ ![Snake-Game-Animation-From-GitHub-Contributions-Graph](https://github.com/strikersps/strikersps/blob/snake_game_output/github-contribution-grid-snake.svg)
+###### Suraj Sharma GitHub Contributions Graph Gamification ⏬ ![Snake-Game-Animation-From-GitHub-Contributions-Graph](https://github.com/strikersps/strikersps/blob/snake_game_output/github-contribution-grid-snake.svg)
 
 ### Glad to see you here! 🎉 ♥️
 * I am a Data Scientist and Software Developer. I love programming, writing, and playing soccer.
