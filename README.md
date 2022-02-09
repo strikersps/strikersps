@@ -12,7 +12,7 @@
   <img align = "center", src = "https://github.com/strikersps/strikersps-github-stats/blob/master/generated/languages.svg" /> <br>
 </p>
 
-###### Suraj Sharma GitHub Contributions Graph Gamification ⏬ ![Snake-Game-Animation-From-GitHub-Contributions-Graph](https://github.com/strikersps/strikersps/blob/snake_game_output/github-contribution-grid-snake.svg)
+###### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> Suraj Sharma GitHub Contributions Graph Gamification ⏬ ![Snake-Game-Animation-From-GitHub-Contributions-Graph](https://github.com/strikersps/strikersps/blob/snake_game_output/github-contribution-grid-snake.svg)
 
 ### Glad to see you here! 🎉 ♥️
 * I am a Data Scientist and Software Developer. I love programming, writing, and playing soccer.
@@ -20,7 +20,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/strikersps/strikersps/blob/main/assets/coding.gif?raw=true" width="380" height="280"/>  
 
-## Talking About Personal Stuffs
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Talking About Personal Stuffs
 
 - 🎓 Currently pursuing Masters In Data Science
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/strikersps)
@@ -28,12 +28,12 @@
 - 🖥️ I usually participate in competitive programming contests on various platforms to improve my programming skills
 - 💬 Ask me about anything, I am happy to help :)
 
-## Latest Blog Posts
+## <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 23px> Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Analysis of Startup Industry As of June-2021](https://medium.com/analytics-vidhya/analysis-of-startup-industry-as-of-june-2021-683e1b213a5c?source=rss-13a552a393bf------2)
 <!-- BLOG-POST-LIST:END -->
 
-## Latest Stack Overflow Activities  
+## <img src = "https://csshint.com/wp-content/uploads/2019/05/Animated-Logo-examples-2.gif" width = 75px> Latest Stack Overflow Activities  
 <img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=12210908" height = "220"/>  
 
 <!-- STACKOVERFLOW:START -->
