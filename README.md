@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Suraj Prakash Sharma  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>  
 <p align = "center"> 
-  <img src = "https://readme-typing-svg.herokuapp.com?font=hack&color=%23FF0000&size=18&center=true&lines=Software+Developer;Data+Scientist;Nice+to+meet+you+..."> 
+  <img src = "https://readme-typing-svg.herokuapp.com?font=hack&color=%23FF0000&size=18&center=true&lines=Software+Developer;Data+Scientist;Nice+to+meet+you+...Namaste!"> 
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/sps22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sps22" height="30" width="40" /></a>
