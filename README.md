@@ -22,10 +22,10 @@
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Talking About Personal Stuffs
 
-- 🎓 Currently pursuing Masters In Data Science
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/strikersps)
-- 📝 I regularly write articles related to Data Science on [Medium](https://medium.com/@striker-786)
-- 🖥️ I usually participate in competitive programming contests on various platforms to improve my programming skills
+- 🎓 Currently pursuing Masters (M.Tech) In Data Science
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/strikersps?tab=repositories)
+- 📝 I regularly write articles about applications of Data Science on [Medium](https://medium.com/@striker-786)
+- 🖥️ I participate in competitive programming contests on various platforms to improve my programming skills
 - 💬 Ask me about anything, I am happy to help :)
 
 ## <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 23px> Latest Blog Posts
