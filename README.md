@@ -33,7 +33,7 @@
 - [Analysis of Startup Industry As of June-2021](https://medium.com/analytics-vidhya/analysis-of-startup-industry-as-of-june-2021-683e1b213a5c?source=rss-13a552a393bf------2)
 <!-- BLOG-POST-LIST:END -->
 
-## <img src = "https://csshint.com/wp-content/uploads/2019/05/Animated-Logo-examples-2.gif" width = 75px> Latest Stack Overflow Activities  
+## <img src = "https://im2.ezgif.com/tmp/ezgif-2-1beec7fe9d.gif" width = 25px> Latest Stack Overflow Activities  
 <img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=12210908" height = "220"/>  
 
 <!-- STACKOVERFLOW:START -->
