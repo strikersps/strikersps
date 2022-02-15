@@ -34,7 +34,7 @@
 ## <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 23px> Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Analysis of Crypto Assets Using Apache Spark](https://striker-786.medium.com/analysis-of-crypto-assets-using-apache-spark-105a6f152b44?source=rss-13a552a393bf------2)
-- [Analysis of Startup Industry As of June-2021](https://medium.com/analytics-vidhya/analysis-of-startup-industry-as-of-june-2021-683e1b213a5c?source=rss-13a552a393bf------2)
+- [Analysis of Startup Industry as of June-2021](https://medium.com/analytics-vidhya/analysis-of-startup-industry-as-of-june-2021-683e1b213a5c?source=rss-13a552a393bf------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## <img src = "https://github.com/strikersps/strikersps/blob/main/assets/stack-overflow.gif" width = 25px> Latest Stack Overflow Activities  
