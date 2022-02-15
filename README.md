@@ -26,7 +26,9 @@
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/strikersps?tab=repositories)
 - 📝 I regularly write articles about applications of Data Science on [Medium](https://medium.com/@striker-786)
 - 🖥️ I participate in competitive programming contests on various platforms to improve my programming skills
-- 💬 Ask me about anything, I am happy to help :)
+- 💬 Ask me about anything, I am happy to help :)  
+- 🎧 I am currently listening to:  
+![https://spotify-github-profile.vercel.app/api/view.svg?uid=c1084xqhelmzaak51jms910ok&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=c1084xqhelmzaak51jms910ok&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)
 
 ## <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 23px> Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
