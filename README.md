@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Suraj Prakash Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>  
+
 <p align = "center"> 
   <img src = "https://readme-typing-svg.herokuapp.com?font=hack&color=%23FF0000&center=true&vCenter=true&lines=Software+Developer;Data+Scientist;Nice+to+meet+you+...+Namaste+%F0%9F%87%AE%F0%9F%87%B3"> 
 </p>
@@ -20,8 +21,10 @@
 
 <img align="right" alt="GIF" src="https://github.com/strikersps/strikersps/blob/main/assets/coding.gif?raw=true" width="380" height="280"/>  
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Talking About Personal Stuffs
-![https://spotify-github-profile.vercel.app/api/view.svg?uid=c1084xqhelmzaak51jms910ok&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=c1084xqhelmzaak51jms910ok&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"/> Talking About Personal Stuffs
+
+<img align = "center" img src = "https://spotify-github-profile.vercel.app/api/view.svg?uid=c1084xqhelmzaak51jms910ok&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />  
+
 - 🎓 Currently pursuing Masters (M.Tech) In Data Science
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/strikersps?tab=repositories)
 - 📝 I regularly write articles about applications of Data Science on [Medium](https://medium.com/@striker-786)
