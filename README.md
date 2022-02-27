@@ -4,7 +4,7 @@
   <img src = "https://readme-typing-svg.herokuapp.com?font=hack&color=%23FF0000&center=true&vCenter=true&lines=Software+Developer;Data+Scientist;Nice+to+meet+you+...+Namaste+%F0%9F%87%AE%F0%9F%87%B3"> 
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/sps22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sps22" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/strikersps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sps22" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/12210908/strikersps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="strikersps" height="30" width="40" /></a>
   <a href="https://medium.com/@striker-786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@striker-786" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/striker22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="striker22" height="30" width="40" /></a>
@@ -58,4 +58,4 @@
 - 📄 Resume on request [Due to privacy reasons]
 - 📧 You can reach me out on: 
   - Email ID: **[Sharmasurajofficial@gmail.com](mailto:Sharmasurajofficial@gmail.com)**
-  - LinkedIn: https://www.linkedin.com/in/sps22/
+  - LinkedIn: https://www.linkedin.com/in/strikersps/
