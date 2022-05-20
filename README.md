@@ -23,7 +23,7 @@
 * I am a Data Scientist and Software Developer. I love programming, writing, and playing soccer.
 * As a Sofware Engineer, I am always interested in solving problems by writing high-performance, efficient code. I enjoy using my obsessive attention to detail to achieve perfection in my work. 
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"/> Talking About Personal Stuffs
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"/> Talking About Personal Stuffs  
 
 <img align="right" img src="https://github.com/strikersps/strikersps/blob/main/assets/coding.gif" alt = "animated" width="380" height="280"/>  
 
