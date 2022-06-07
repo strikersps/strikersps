@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Suraj Prakash Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>  
+<h1 align="center">Hi, I'm Suraj Prakash Sharma </h1>  
 
 <p align = "center"> 
   <img src = "https://readme-typing-svg.herokuapp.com?font=hack&color=%23FF0000&center=true&vCenter=true&lines=Software+Developer;Data+Scientist;Nice+to+meet+you+...+Namaste+%F0%9F%87%AE%F0%9F%87%B3"> 
@@ -14,7 +14,7 @@
   <br>
 </p>
 
-###### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> Suraj Sharma GitHub Contributions Graph Gamification ⏬ ![Snake-Game-Animation-From-GitHub-Contributions-Graph](https://github.com/strikersps/strikersps/blob/snake_game_output/github-contribution-grid-snake.svg)
+###### Suraj Sharma GitHub Contributions Graph Gamification ⏬ ![Snake-Game-Animation-From-GitHub-Contributions-Graph](https://github.com/strikersps/strikersps/blob/snake_game_output/github-contribution-grid-snake.svg)
 
 ### Glad to see you here! 🎉 ♥️
 
@@ -23,7 +23,7 @@
 * I am a Data Scientist and Software Developer. I love programming, writing, and playing soccer.
 * As a Sofware Engineer, I am always interested in solving problems by writing high-performance, efficient code. I enjoy using my obsessive attention to detail to achieve perfection in my work. 
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"/> Talking About Personal Stuffs  
+## Talking About Personal Stuffs  
 
 <img align="right" img src="https://github.com/strikersps/strikersps/blob/main/assets/coding.gif" alt = "animated" width="380" height="280"/>  
 
@@ -33,13 +33,13 @@
 - 🖥️ I participate in competitive programming contests on various platforms like CodeChef, HackerRank, CodeForces to improve my programming skills in C, C++ and Python.
 - 💬 Ask me about anything, I am happy to help :)  
 
-## <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 23px> Latest Blog Posts
+## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Analysis of Crypto Assets Using Apache Spark](https://striker-786.medium.com/analysis-of-crypto-assets-using-apache-spark-105a6f152b44?source=rss-13a552a393bf------2)
 - [Analysis of Startup Industry as of June-2021](https://medium.com/analytics-vidhya/analysis-of-startup-industry-as-of-june-2021-683e1b213a5c?source=rss-13a552a393bf------2)
 <!-- BLOG-POST-LIST:END -->
 
-## <img src = "https://github.com/strikersps/strikersps/blob/main/assets/stack-overflow.gif" width = 25px> Latest Stack Overflow Activities  
+## Latest Stack Overflow Activities  
 <img align="right" src = "https://github-readme-stackoverflow.vercel.app/?userID=12210908" height = "220"/>  
 
 <!-- STACKOVERFLOW:START -->
@@ -53,7 +53,7 @@
 ## ⚡ Languages and Tools
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## <img src = "https://media1.giphy.com/media/ZaQxwH5PiW8Hmspagh/giphy.gif?cid=790b76114ca6a5586cc60f623581422ae0a2ca154ac9dd8e&rid=giphy.gif&ct=s" width = 25px> Open for Job Opportunities: Yes
+## Open for Job Opportunities: Yes
 - 💼 Position of Interest: Deep Learning, Machine Learning, Data Scientist, Data Analyst
 - 🌏 Location Preference: India (Bangalore or Pune), Australia* (*Will need VISA sponsorship)
 - 📄 Resume on request [Due to privacy reasons]
