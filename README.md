@@ -27,7 +27,7 @@
 
 <img align="right" img src="https://github.com/strikersps/strikersps/blob/main/assets/coding.gif" alt = "animated" width="380" height="280"/>  
 
-- 🎓 Currently pursuing Masters (M.Tech) In Data Science.
+- 🎓 Masters (M.Tech) in Data Science.
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/strikersps?tab=repositories).
 - 📝 I recently started writing articles about applications of Data Science on [Medium](https://medium.com/@striker-786).
 - 🖥️ I participate in competitive programming contests on various platforms like CodeChef, HackerRank, CodeForces to improve my programming skills in C, C++ and Python.
