@@ -55,7 +55,7 @@
 
 ## Open for Job Opportunities: Yes
 - 💼 Position of Interest: Deep Learning, Machine Learning, Data Scientist, Data Analyst
-- 🌏 Location Preference: India (Bangalore or Pune), Australia* (*Will need VISA sponsorship)
+- 🌏 Location Preference: India (Bangalore), Canada
 - 📄 Resume on request [Due to privacy reasons]
 - 📧 You can reach me out on: 
   - Email ID: **[Sharmasurajofficial@gmail.com](mailto:Sharmasurajofficial@gmail.com)**
