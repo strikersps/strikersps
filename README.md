@@ -21,18 +21,18 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c1084xqhelmzaak51jms910ok&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=c1084xqhelmzaak51jms910ok&redirect=true)
 
 * I am a Data Scientist and Software Developer. I love programming, writing, and playing soccer.
-* As a Sofware Engineer, I am always interested in solving problems by writing high-performance, efficient code. I enjoy using my obsessive attention to detail to achieve perfection in my work. 
+* As a Sofware Engineer, I am always interested in solving problems by writing high-performance, robust, efficient code. I enjoy using my obsessive attention to detail to achieve perfection in my work.
 
 ## Talking About Personal Stuffs  
 
 <img align="right" img src="https://github.com/strikersps/strikersps/blob/main/assets/coding.gif" alt = "animated" width="380" height="280"/>  
 
 - 🎓 Masters (M.Tech) in Data Science.
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/strikersps?tab=repositories).
+- 👨‍💻 All of my projects and source-codes are available on [GitHub](https://github.com/strikersps?tab=repositories).
 - 📝 I recently started writing articles about applications of Data Science on [Medium](https://medium.com/@striker-786).
 - 🖥️ I participate in competitive programming contests on various platforms like CodeChef, HackerRank, CodeForces to improve my programming skills in C, C++ and Python.
-- 💬 Ask me about anything, I am happy to help :)  
-
+- 💬 Let's connect and discuss about different ideas in the field of data science, machine learning, and deep learning and how can I contribute towards those ideas.
+    
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Analysis of Crypto Assets Using Apache Spark](https://striker-786.medium.com/analysis-of-crypto-assets-using-apache-spark-105a6f152b44?source=rss-13a552a393bf------2)
@@ -54,9 +54,10 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 ## Open for Job Opportunities: Yes
-- 💼 Position of Interest: Deep Learning, Machine Learning, Data Scientist, Data Analyst
-- 🌏 Location Preference: India (Bangalore), Canada
-- 📄 Resume on request [Due to privacy reasons]
-- 📧 You can reach me out on: 
+- 💼 Positions of interest: Deep Learning, Machine Learning, Data Scientist.
+- 🌏 Location Preference: India (Bangalore), Canada.
+- 📄 Resume will be provided on request [Due to privacy reasons]
+- 📧 You can reach me out on:
   - Email ID: **[Sharmasurajofficial@gmail.com](mailto:Sharmasurajofficial@gmail.com)**
   - LinkedIn: https://www.linkedin.com/in/strikersps/
+    
