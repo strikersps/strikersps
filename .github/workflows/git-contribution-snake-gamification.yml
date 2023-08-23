@@ -23,8 +23,11 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@master
         with:
-          github_user_name: strikersps
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: ${{ github.respository_owner }}
+        outputs: |
+          dist/github-snake.svg
+          dist/github-snake-dark.svg?palette=github-dark
+          dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       # push the content of buid directory to a branch
       # the content will be available at https://raw.githubusercontent.com/strikersps/strikersps/snake_game_output/github-contributions-grid-snake.svg , or as github page
