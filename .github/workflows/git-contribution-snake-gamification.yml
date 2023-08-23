@@ -21,13 +21,15 @@ jobs:
     steps:
       # generates a snake game from a github user strikersps contributions graph, output a svg animation at path .
       - name: generate github-contribution-grid-snake.svg
-      - uses: Platane/snk@master
+        uses: Platane/snk@master
         with:
-            github_user_name: ${{ github.respository_owner }}
+            github_user_name: strikersps
             outputs: |
               dist/github-snake.svg
               dist/github-snake-dark.svg?palette=github-dark
               dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # Push the content of buid directory to a branch
       # The content will be available at https://raw.githubusercontent.com/strikersps/strikersps/snake_game_output/github-contributions-grid-snake.svg , or as github page
