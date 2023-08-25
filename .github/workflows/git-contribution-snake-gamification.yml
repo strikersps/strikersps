@@ -28,7 +28,7 @@ jobs:
             outputs: |
               dist/github-contribution-snake-game.svg
               dist/github-contibution-snake-game.svg?palette=github-dark
-              dist/github-contribution-snake-game.gif?color_snake=black
+              dist/github-contribution-snake-game.gif?color_snake=blue
         env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
