@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Suraj Prakash Sharma </h1>  
+<h1 align="center">Hey, I'm Suraj Prakash Sharma </h1>  
 
 <p align = "center"> 
   <img src = "https://readme-typing-svg.herokuapp.com?font=hack&color=%23FF0000&center=true&vCenter=true&lines=Software+Developer;Data+Scientist;Nice+to+meet+you+...+Namaste+%F0%9F%87%AE%F0%9F%87%B3"> 
@@ -14,7 +14,7 @@
   <br>
 </p>
 
-###### Suraj Sharma GitHub Contributions Graph Gamification ⏬ ![Snake-Game-Animation-From-GitHub-Contributions-Graph](https://github.com/strikersps/strikersps/blob/snake_game_output/github-snake.svg)
+###### Suraj Sharma GitHub Contributions Graph Gamification ⏬ ![Snake-Game-Animation-From-GitHub-Contributions-Graph](https://github.com/strikersps/strikersps/blob/snake_game_output/ocean.gif)
 
 ### Glad to see you here! 🎉 ♥️
 
