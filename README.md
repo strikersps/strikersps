@@ -18,8 +18,6 @@
 
 ### Glad to see you here! 🎉 ♥️
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c1084xqhelmzaak51jms910ok&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=c1084xqhelmzaak51jms910ok&redirect=true)
-
 * I am a Data Scientist and Software Developer. I love programming, writing, and playing soccer.
 * As a Sofware Engineer, I am always interested in solving problems by writing high-performance, robust, efficient code. I enjoy using my obsessive attention to detail to achieve perfection in my work.
 
