@@ -14,7 +14,7 @@
   <br>
 </p>
 
-###### Suraj Sharma GitHub Contributions Graph Gamification ⏬ ![Snake-Game-Animation-From-GitHub-Contributions-Graph](https://github.com/strikersps/strikersps/blob/snake_game_output/ocean.gif)
+###### Suraj Sharma GitHub Contributions Graph Gamification ⏬ ![Snake-Game-Animation-From-GitHub-Contributions-Graph](https://github.com/strikersps/strikersps/blob/snake_game_output/github-contribution-snake-game.gif)
 
 ### Glad to see you here! 🎉 ♥️
 
