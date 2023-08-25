@@ -26,9 +26,9 @@ jobs:
         with:
             github_user_name: strikersps
             outputs: |
-              dist/github-snake.svg
-              dist/github-snake-dark.svg?palette=github-dark
-              dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+              dist/github-contribution-snake-game.svg
+              dist/github-contibution-snake-game.svg?palette=github-dark
+              dist/github-contribution-snake-game.gif?color_snake=black
         env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
