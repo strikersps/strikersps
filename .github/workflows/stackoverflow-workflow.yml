@@ -14,6 +14,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "STACKOVERFLOW"
-          commit_message: "Updated readme with the latest stackOverflow data"
+          commit_message: "Updated readme.md file with the latest Stack Overflow data for the user 12210908"
           feed_list: "https://stackoverflow.com/feeds/user/12210908"
           max_post_count: 5
