@@ -66,7 +66,5 @@
 - 💼 Positions of interest: Deep Learning, Machine Learning, Data Scientist.
 - 🌏 Location Preference: India (Bangalore), Canada.
 - 📄 Resume will be provided on request [Due to privacy reasons]
-- 📧 You can reach me out on:
-  - Email ID: **[Sharmasurajofficial@gmail.com](mailto:Sharmasurajofficial@gmail.com)**
+- 📧 You can reach out to me on:
   - LinkedIn: https://www.linkedin.com/in/strikersps/
-    
