@@ -19,18 +19,18 @@
 ### Glad to see you here! 🎉 ♥️
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c1084xqhelmzaak51jms910ok&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=c1084xqhelmzaak51jms910ok&redirect=true)
 
-* I am a Data Scietist/Software Developer. I love programming, writing, and playing soccer.
-* As a Sofware Engineer, I am always interested in solving problems by writing high-performance, robust, efficient code. I enjoy using my obsessive attention to detail to achieve perfection in my work.
+* I am a Data Scientist/Software Developer. I love programming, writing, and playing soccer.
+* As a software engineer, I am always interested in solving problems by writing high-performance, robust, efficient code. I enjoy using my obsessive attention to detail to achieve perfection in my work.
 
-## Talking About Personal Stuffs  
+## Talking About Personal Developer Journey
 
 <img align="right" img src="https://github.com/strikersps/strikersps/blob/main/assets/coding.gif" alt = "animated" width="380" height="280"/>  
 
 - 🎓 Masters (M.Tech) in Data Science.
-- 👨‍💻 All of my projects and source-codes are available on [GitHub](https://github.com/strikersps?tab=repositories).
+- 👨‍💻 All of my projects and source codes are available on [GitHub](https://github.com/strikersps?tab=repositories).
 - 📝 I recently started writing articles about applications of Data Science on [Medium](https://medium.com/@striker-786).
-- 🖥️ I participate in competitive programming contests on various platforms like CodeChef, HackerRank, CodeForces to improve my programming skills in C, C++ and Python.
-- 💬 Let's connect and discuss about different ideas in the field of data science, machine learning, and deep learning and how can I contribute towards those ideas.
+- 🖥️ I participate in competitive programming contests on various platforms like CodeChef, HackerRank, and CodeForces to improve my programming skills in C, C++, and Python.
+- 💬 Let's connect and discuss different ideas in the field of data science, machine learning, and deep learning and how can I contribute to those ideas.
     
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
