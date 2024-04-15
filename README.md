@@ -22,7 +22,7 @@
 * I am a Data Scientist/Software Developer. I love programming, writing, and playing soccer.
 * As a software engineer, I am always interested in solving problems by writing high-performance, robust, efficient code. I enjoy using my obsessive attention to detail to achieve perfection in my work.
 
-## Talking About Personal Developer Journey
+## From Bits to Bytes: My Personal Developement Journey
 
 <img align="right" img src="https://github.com/strikersps/strikersps/blob/main/assets/coding.gif" alt = "animated" width="380" height="280"/>  
 
